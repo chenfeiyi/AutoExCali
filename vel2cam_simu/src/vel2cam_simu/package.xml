@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>velo2cam_simu</name>
+  <version>1.0.0</version>
+  <description>
+    velo2cam_simu for velodyne16 and camera calibration
+  </description>
+
+  <license>GNU GPLv2</license>
+  <author>CHEN Feiyi</author>
+  <maintainer email="chenfeiyi8@gmail.com">CHEN Feiyi</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>velodyne_gazebo_plugin</run_depend>
+  <export>
+    <!-- <metapackage/> -->
+  </export>
+
+</package>
